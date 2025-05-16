@@ -47,6 +47,17 @@ Se tendrá en cuenta:
 - Calidad del código (legibilidad, uso de funciones, buenas prácticas).
 - Persistencia de datos con `localStorage` en el carrito.
 
+## 🚀 Modo de entrega
+
+La entrega se realizará **vía GitHub**. Para eso:
+
+1. Cloná este repositorio en tu computadora o descargalo como ZIP.
+2. Trabajá exclusivamente en los archivos indicados.
+3. Una vez finalizado el trabajo:
+   - Subí tu proyecto a un **nuevo repositorio privado** en GitHub.
+   - Poné como nombre del repositorio: `parcial1-apellido-nombre`.
+4. Agregá como colaborador/a al docente o ayudante (según se indique en clase).
+5. No se aceptarán entregas fuera de GitHub o fuera de término.
 
 ¡Mucho éxito! Recordá que es un **parcial** y será evaluado individualmente.  
 Cualquier intento de copia será penalizado.
