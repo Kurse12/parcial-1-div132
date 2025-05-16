@@ -43,9 +43,8 @@ El trabajo completo debe respetar la siguiente estructura:
 
 Se tendrá en cuenta:
 
-- Correctitud del funcionamiento de cada punto.
+- Correcto funcionamiento de cada punto.
 - Calidad del código (legibilidad, uso de funciones, buenas prácticas).
-- Completitud del parcial.
 - Persistencia de datos con `localStorage` en el carrito.
 
 
